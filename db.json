@@ -29,30 +29,6 @@
     { "id": 27, "name": "Porcupine, prehensile-tailed", "category": "Red" },
     { "id": 28, "name": "Waxbill, black-cheeked", "category": "Khaki" },
     { "id": 29, "name": "Crake, african black", "category": "Teal" },
-    { "id": 30, "name": "Bat-eared fox", "category": "Aquamarine" },
-    { "id": 31, "name": "Grey heron", "category": "Khaki" },
-    { "id": 32, "name": "Small-clawed otter", "category": "Fuscia" },
-    { "id": 33, "name": "Square-lipped rhinoceros", "category": "Fuscia" },
-    { "id": 34, "name": "Hummingbird (unidentified)", "category": "Violet" },
-    { "id": 35, "name": "Ringtail cat", "category": "Fuscia" },
-    { "id": 36, "name": "Dolphin, striped", "category": "Indigo" },
-    { "id": 37, "name": "Glossy starling (unidentified)", "category": "Puce" },
-    { "id": 38, "name": "Bird, bare-faced go away", "category": "Maroon" },
-    { "id": 39, "name": "White-tailed deer", "category": "Pink" },
-    { "id": 40, "name": "Klipspringer", "category": "Maroon" },
-    { "id": 41, "name": "Blue catfish", "category": "Maroon" },
-    { "id": 42, "name": "Little brown dove", "category": "Mauv" },
-    { "id": 43, "name": "Monster, gila", "category": "Yellow" },
-    { "id": 44, "name": "Antelope, four-horned", "category": "Khaki" },
-    { "id": 45, "name": "Adouri (unidentified)", "category": "Khaki" },
-    { "id": 46, "name": "Striped dolphin", "category": "Blue" },
-    {
-      "id": 47,
-      "name": "South American meadowlark (unidentified)",
-      "category": "Puce"
-    },
-    { "id": 48, "name": "Bandicoot, southern brown", "category": "Orange" },
-    { "id": 49, "name": "Flamingo, greater", "category": "Orange" },
-    { "id": 50, "name": "Galapagos penguin", "category": "Khaki" }
+    { "id": 30, "name": "Bat-eared fox", "category": "Aquamarine" }
   ]
 }
