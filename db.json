@@ -19,11 +19,6 @@
     { "id": 17, "name": "Yellow baboon", "category": "Green" },
     { "id": 18, "name": "Flamingo, roseat", "category": "Teal" },
     { "id": 19, "name": "Malabar squirrel", "category": "Blue" },
-    { "id": 20, "name": "Magellanic penguin", "category": "Mauv" },
-    { "id": 21, "name": "Giant girdled lizard", "category": "Orange" },
-    { "id": 22, "name": "North American river otter", "category": "Teal" },
-    { "id": 23, "name": "Deer, roe", "category": "Green" },
-    { "id": 24, "name": "Galapagos penguin", "category": "Green" },
-    { "id": 25, "name": "Ibex", "category": "Puce" }
+    { "id": 20, "name": "Magellanic penguin", "category": "Mauv" }
   ]
 }
