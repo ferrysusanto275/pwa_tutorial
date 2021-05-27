@@ -24,11 +24,6 @@
     { "id": 22, "name": "North American river otter", "category": "Teal" },
     { "id": 23, "name": "Deer, roe", "category": "Green" },
     { "id": 24, "name": "Galapagos penguin", "category": "Green" },
-    { "id": 25, "name": "Ibex", "category": "Puce" },
-    { "id": 26, "name": "White-tailed jackrabbit", "category": "Orange" },
-    { "id": 27, "name": "Porcupine, prehensile-tailed", "category": "Red" },
-    { "id": 28, "name": "Waxbill, black-cheeked", "category": "Khaki" },
-    { "id": 29, "name": "Crake, african black", "category": "Teal" },
-    { "id": 30, "name": "Bat-eared fox", "category": "Aquamarine" }
+    { "id": 25, "name": "Ibex", "category": "Puce" }
   ]
 }
